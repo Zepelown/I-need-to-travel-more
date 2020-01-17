@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96556567322",
+    "firebase_url": "https://i-need-to-travel-more.firebaseio.com",
+    "project_id": "i-need-to-travel-more",
+    "storage_bucket": "i-need-to-travel-more.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96556567322:android:2581b6af025c8ea2e93aa3",
+        "android_client_info": {
+          "package_name": "com.example.i_need_to_travel_more"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96556567322-cjr6cni4nsdb47c6i3k9uqjenlq3c6cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnbKRXpjDuGSm5XYYp1w42kMgPWzLMh8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96556567322-cjr6cni4nsdb47c6i3k9uqjenlq3c6cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
